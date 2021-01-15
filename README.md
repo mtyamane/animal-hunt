@@ -1,2 +1,2 @@
 # animal-hunt
-A file scavenger hunt to practice navigating on the command line!
+Hint #1: The only animal file in the current directory...
